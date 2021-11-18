@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @miguelbemon
-- 🌱 I’m currently learning JS/REACT/IONIC
+- 🌱 I’m currently learning FrontEnd.
+-Twitter: https://twitter.com/mbm_web
 
 
 
